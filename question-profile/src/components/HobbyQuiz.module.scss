@@ -1,0 +1,47 @@
+.question {
+  margin-top: 20px;
+  margin-left: 350px;
+  background: #cce5ff;
+  color: #004085;
+  display: inline-block;
+  border-radius: 4px;
+  padding: 5px;
+}
+
+li {
+  margin-left: 345px;
+  margin-bottom: 5px;
+  list-style: none;
+  border: 1px solid #ccc;
+  display: inline-block;
+  width: 150px;
+  cursor: pointer;
+  background: #f8f8f8;
+}
+
+p {
+  margin: 0px;
+}
+
+.quizNextButton {
+  margin-top: 20px;
+  margin-left: 400px;
+  width: 100px;
+  height: ４0px;
+  cursor: pointer;
+  border-radius: 4px;
+  background: #cce5ff;
+  box-shadow: 0 3px 0 #aabed3;
+}
+
+.notAnsweredYet {
+  opacity: 0.4;
+}
+
+.answered {
+  opacity: 1;
+}
+
+#anserFormat {
+  margin-left: 435px;
+}

@@ -1,0 +1,9 @@
+.boldFont {
+  font-size: 50px;
+  font-weight: bold;
+  margin-top: 70px;
+  margin-left: 400px;
+  height: 100px; // この要素の下の要素の高さを調整するために使える
+  display: inline-block;
+  vertical-align:top;
+}
